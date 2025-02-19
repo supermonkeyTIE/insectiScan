@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InsectaScan</string>
+    <string-array name="regions">
+        <item>North America</item>
+        <item>Central America</item>
+        <item>South America</item>
+        <item>Western Europe</item>
+        <item>Eastern Europe</item>
+        <item>North Africa</item>
+        <item>Sub-Saharan Africa</item>
+        <item>Middle East</item>
+        <item>South Asia</item>
+        <item>Southeast Asia</item>
+        <item>East Asia</item>
+        <item>Australia/Oceania</item>
+        <item>Pacific Islands</item>
+    </string-array>
+</resources>

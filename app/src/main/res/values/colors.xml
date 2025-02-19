@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4CAF50</color>    <!-- Main Green -->
+    <color name="secondary">#2196F3</color>  <!-- Main Blue -->
+    <color name="background">#F0F7F0</color> <!-- Light Green Background -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="accent_light_blue">#E3F2FD</color>
+    <color name="accent_light_green">#E8F5E9</color>
+    <color name="button_selected">#4CAF50</color>
+    <color name="button_unselected">#CCCCCC</color>
+</resources>
